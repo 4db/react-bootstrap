@@ -2,7 +2,7 @@
   "name": "template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aldb.github.io/react-bootstrap",
+  "homepage": "https://aldb.github.io/react-bootstrap/build",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "font-awesome": "^4.7.0",
